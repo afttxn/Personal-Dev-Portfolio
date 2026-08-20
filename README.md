@@ -23,11 +23,4 @@ To use this portfolio website, you can follow these steps:
 
 Feel free to modify the structure, design, and content of the website according to your own preferences and requirements.
 
-# Demo
-A live demo of the portfolio website can be found at [LINK TO LIVE DEMO](https://porfolio-project-shemmee.netlify.app/about.html).
-
-# Credits
-The portfolio website was created by [s-shemmee](https://github.com/s-shemmee) as a final project for the SheCodes Responsive Workshop.
-
-# License
-This project is licensed under the MIT license.
+ 
