@@ -4,5 +4,5 @@
   "description": "My project description",
   "scripts": {
     "build": "mkdir dist && cp index.html about.html work.html contact.html README.md dist && cp -R src/ dist && cp -R images/ dist"
-  }
+   }
 }
