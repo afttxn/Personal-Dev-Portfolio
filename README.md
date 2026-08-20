@@ -1,4 +1,4 @@
-# Portfolio Website
+# Personal Dev Portfolio
 This is a responsive portfolio website developed as a final project for the SheCodes Responsive Workshop. It is built using HTML, CSS, and Bootstrap. The website showcases the skills, projects, and contact information of the portfolio owner.
 
 # Features
